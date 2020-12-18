@@ -1,7 +1,5 @@
 <h1 align="center"> QuoteGenerator</h1>
 
-This Quote generator shows random quotes which can be translated to any language.
-
 ![Netlify](https://img.shields.io/netlify/a85b3a15-9ecc-4ee8-bc90-c0498f5156da) 
  ![GitHub language count](https://img.shields.io/github/languages/count/sasi7392/QuoteGenerator)
  ![GitHub issues](https://img.shields.io/github/issues-raw/sasi7392/QuoteGenerator)
@@ -15,9 +13,8 @@ This Quote generator shows random quotes which can be translated to any language
 ![Mobile_demo](/images/mobile_demo.png)
 # Description
 
-Used **GOOGLE TRANSLATE API** to translate the quotes to any selected language.This project supports **7** languages and *__Tweet__* the Quote.
+Quote Generator is implemented by javascript and jQuery in *script.js*.All designing are pure CSS.Used **GOOGLE TRANSLATE API** to translate the quotes to any selected language.This project supports **7** languages and *__Tweet__* the Quote.
 
-Quote Generator is implemented by javascript and jQuery in *script.js*.All designing are pure CSS.
 
 My inspiration is from **Google Translator**.
 
